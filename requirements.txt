@@ -1,0 +1,8 @@
+ultralytics==8.2.0
+opencv-python==4.9.0.80
+supervision==0.19.0
+fastapi==0.111.0
+uvicorn==0.29.0
+python-multipart==0.0.9
+motmetrics==1.4.0
+numpy==1.26.4
